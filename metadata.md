@@ -4,17 +4,17 @@ solution-title: Troubleshooting
 type: Troubleshooting
 index: true
 git-repo: https://github.com/AdobeDocs/experience-cloud-kcs.zh-Hant
-source-git-commit: 0f546139887bd42346c58b8aa0ef76015688601c
+source-git-commit: 2384c7257d7b62f6c3387d15bed9b372901f6b0b
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 85%
+source-wordcount: '126'
+ht-degree: 87%
 
 ---
 
 
 # 供內部使用的中繼資料
 
-此 [!DNL metadata.md] 檔案包含存放庫層級中繼資料，會傳遞至使用手冊 [!DNL TOC.md] 檔案。 如果您想變更任何使用手冊的 metadata.md 內容，可以在任何 TOC.md 檔案中進行更改。
+此 [!DNL metadata.md] 檔案包含傳遞至使用手冊的存放庫層級中繼資料 [!DNL TOC.md] 存放庫中的檔案。 如果您想變更任何使用手冊的 metadata.md 內容，可以在任何 TOC.md 檔案中進行更改。
 
 | 中繼資料您應留意但不影響分數的問題。 | 作用 |
 |--- |--- |
